@@ -1,0 +1,29 @@
+{
+  "name": "react-new",
+  "version": "1.0.0",
+  "description": "react practice",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel ./public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karan-exe/pratice.git"
+  },
+  "author": "Karan Kharadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karan-exe/pratice/issues"
+  },
+  "homepage": "https://github.com/karan-exe/pratice#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.12.0"
+  }
+}

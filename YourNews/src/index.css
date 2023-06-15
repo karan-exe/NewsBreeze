@@ -1,0 +1,10 @@
+.header{
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(76, 81, 99) 70.2%);
+}
+
+/* .header{
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+} */
+.image{
+    height: 50px;
+}
